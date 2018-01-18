@@ -1,10 +1,11 @@
 
-//Realizar un programa con opciones y funciones. De acuerdo a la opcion convertir a bits, bytes,KB,MB,GB y TB.// 
+// Ejemplo de una clase con dos funciones.  
 
 
 
 import java.util.Scanner;
 
+// la clase se llama fun1
 public class fun1{
 
     // una funcion puede acetar parametros y puede devolver algo.
